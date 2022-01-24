@@ -15,6 +15,7 @@ This is part of a set of pages on statistics. https://github.com/cmcntsh/stats20
 
 * Simple linear regression (19 min): https://www.youtube.com/watch?v=vblX9JVpHE8
 * Regression (13 min): https://www.youtube.com/watch?v=WWqE7YHR4Jc&t=97s
+* Simple linear regression (12 videos): https://www.youtube.com/watch?v=ZkjP5RJLQF4&list=PLIeGtxpvyG-LoKUpV0fSY8BGKIMIdmfCi
 
 ## Statistical Software Videos
 
